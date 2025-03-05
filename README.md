@@ -20,3 +20,6 @@ Editor:THONNY
 Script:
 Create a chatbot using NLTK NLP tools,with a python script that processes user input,extracts entities,determines intent,and responds accordingly.
 
+output:
+
+
