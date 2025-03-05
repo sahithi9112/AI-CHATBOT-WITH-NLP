@@ -22,4 +22,5 @@ Create a chatbot using NLTK NLP tools,with a python script that processes user i
 
 output:
 
+![Image](https://github.com/user-attachments/assets/d30fe2f7-2128-4f3c-82ef-10a5198934c5)
 
